@@ -1,0 +1,8 @@
+# user, password and other details for JasperReports Server
+DB_USER=postgres
+DB_PASSWORD=password
+DB_PORT=5432
+DB_NAME=jasperserverdb
+# these variables are required by PostgreSQL container
+POSTGRES_USER=postgres
+POSTGRES_PASSWORD=password
